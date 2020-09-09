@@ -1,0 +1,90 @@
+.large {
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+
+.contact {
+  color: white;
+  position: relative;
+  background:url(../wiese.png) center fixed;
+  background-size: cover;
+}
+
+.title {
+  z-index: 1;
+  position: relative;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.title h2 {
+  font-size: 28px;
+  position: relative;
+  margin-bottom: 15px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+}
+
+.title p {
+  font-size: 17px;
+  font-weight: 200;
+}
+
+.input {
+  z-index: 1;
+  position: relative;
+}
+
+.input ul {
+  margin-top: 20px;
+}
+
+.input li {
+  margin: 15px 0;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.input li a {
+  color: #fff;
+}
+
+.input form label {
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.input form legend {
+  color: #fff;
+}
+
+.input form .form-control {
+  color: #fff;
+  box-shadow: none;
+  border-color: #fff;
+  background: rgba(0,0,0,0.2);
+}
+
+.input form .form-control:focus {
+  background: rgba(0,0,0,0.6);
+}
+
+.yellow {
+  color: yellow;
+}
+
+.btn {
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: 400;
+  margin-top: 10px;
+  padding: 5px 15px;
+  border-color: white;
+  color:white;
+  background: rgba(0,0,0,0.2);
+}
+
+.btn:hover {
+  background: rgba(0,0,0,0.6);
+  color: yellow;
+}

@@ -1,0 +1,31 @@
+
+.registrieren {
+  color: white;
+  position: relative;
+  text-align: center;
+  background:url(../bromo.jpg) center fixed;
+  background-size: cover;
+  box-shadow: none;
+  padding-top: 100px;
+  padding-bottom: 10px;
+  font-size: 17px;
+  font-weight: 200;
+
+  margin-bottom: 15px;
+  padding-bottom: 180px;
+
+.input form label {
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.input form legend {
+  color: #fff;
+}
+
+.input form .form-control {
+  color: #fff;
+  box-shadow: none;
+  border-color: #fff;
+  background: rgba(0,0,0,0.2);
+}
